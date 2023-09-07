@@ -1,0 +1,15 @@
+{
+    "name": "admin/php",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iguinho696",
+            "email": "i.rocha.martins10@gmail.com"
+        }
+    ],
+    "require": {}
+}
